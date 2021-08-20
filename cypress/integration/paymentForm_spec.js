@@ -99,12 +99,6 @@ describe("Payment Form", () => {
       it("should have an Credit Card input with a placeholder", () => {
         cy.get("input[placeholder='xxxx xxxx xxxx xxxx']").should(
           "have.attr",
-          "type",
-          "tel"
-        );
-
-        cy.get("input[placeholder='xxxx xxxx xxxx xxxx']").should(
-          "have.attr",
           "required"
         );
       });
