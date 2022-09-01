@@ -17,9 +17,7 @@
     "url": "https://github.com/joinpursuit/Pursuit-Core-Web-HTML-Introduction-Lab/issues"
   },
   "homepage": "https://github.com/joinpursuit/Pursuit-Core-Web-HTML-Introduction-Lab#readme",
-  "dependencies": {},
   "devDependencies": {
-    "cypress": "9.7.0",
     "cypress-watch-and-reload": "1.10.3",
     "live-server": "1.1.0"
   }
